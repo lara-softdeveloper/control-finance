@@ -25,4 +25,4 @@ O projeto utiliza **hooks do Husky** para manter boas práticas de commits e tes
 - **Controle de qualidade:** Husky (pre-commit hooks)
 
 Projeto desenvolvido durante a FulStackClub
-[Felipe Rocha:](https://github.com/felipemotarocha)
+[Felipe Rocha](https://github.com/felipemotarocha)
