@@ -1,8 +1,6 @@
 # Control Finance
 
-Controle Financeiro para gerenciamento de despesas, receitas e assinaturas, desenvolvido com **Next.js**, TypeScript e integração com **Stripe**.
-
----
+Sistema de Controle Financeiro para gerenciamento de despesas, receitas e assinaturas, desenvolvido com **Next.js**, TypeScript e integração com **Stripe**.
 
 ## 📝 Descrição
 
@@ -16,7 +14,6 @@ O Control Finance é uma aplicação web que permite:
 
 O projeto utiliza **hooks do Husky** para manter boas práticas de commits e testes automatizados.
 
----
 
 ## 🚀 Tecnologias
 
