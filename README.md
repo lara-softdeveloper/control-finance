@@ -22,6 +22,14 @@ Entre as principais funcionalidades estão:
 
 ---
 
+## 🔄 Exemplo de Fluxo
+
+<p align="center">
+  <img src="FuncionalidadeControlFinance.png" alt="Fluxo de funcionalidades do Control Finance" width="1000">
+</p>
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Desenvolvimento
